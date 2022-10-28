@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="0.91">
+<channel>
+ <title>My Website</title>
+ <link>https://scroll.pub/</link>
+ <description>Powered by Scroll</description>
+ <language>en-us</language>
+ <item>
+  <title>Hello world</title>
+  <link>https://scroll.pub/firstPost.html</link>
+ </item>
+</channel>
+</rss>
