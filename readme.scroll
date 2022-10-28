@@ -1,0 +1,14 @@
+title NeverGraduate.org
+
+* A new experiment from PublicDomainCompany.com.
+ http://publicdomaincompany.com/ PublicDomainCompany.com.
+
+importOnly
+siteDescription Powered by Scroll
+github https://github.com/breck7/nevergraduate.org
+viewSourceBaseUrl https://github.com/breck7/nevergraduate.org/blob/main
+twitter https://twitter.com/breckyunits
+email feedback@nevergraduate.org
+baseUrl https://nevergraduate.org
+
+permalink index.html
